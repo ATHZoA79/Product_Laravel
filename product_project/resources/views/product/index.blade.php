@@ -47,6 +47,7 @@
     </tbody>
     @endforeach
   </table>
+  
   <div class="list_box d-flex justify-content-center">
     @foreach ($product_box_1 as $pb1)
     <div class="card ">
